@@ -15,7 +15,6 @@ chardet==3.0.4
 click==7.1.2
 clipboard==0.0.4
 Cython==0.29.19
-dbus-python==1.2.16
 decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.0
@@ -87,7 +86,6 @@ pycairo==1.16.2
 pycodestyle==2.5.0
 pycups==1.9.73
 Pygments==2.6.1
-PyGObject==3.36.0
 PyJWT==1.7.1
 pylint==2.5.0
 pymacaroons==0.13.0
