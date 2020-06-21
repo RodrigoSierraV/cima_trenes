@@ -121,7 +121,6 @@ simple-salesforce==1.0.0
 simplejson==3.16.0
 six==1.14.0
 soupsieve==2.0
-systemd-python==234
 terminado==0.8.3
 testpath==0.4.4
 toml==0.10.0
