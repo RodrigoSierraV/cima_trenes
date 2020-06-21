@@ -1,0 +1,37 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+#navbar{
+    background: white !important;
+}
+#testimonial{
+    background: white;
+    padding: 50px 0 30px 0;
+    text-align: center;
+}
+#header{
+    color: aliceblue;
+    background:linear-gradient(120deg,#bbe4e9,#77c9d4,#57Bc90, #1de895);
+}
+#info-one{
+    background: #f1f1f1;
+}
+#header{
+    padding-top: 150px;
+    padding-bottom: 175px;
+}
+#testimonial, #info-one, #info-two, #contact {
+    padding-top: 75px;
+    padding-bottom: 75px;
+}
+footer{
+    background:linear-gradient(120deg,#bbe4e9,#77c9d4,#57Bc90,#4ea981);
+}
+.header-btn{
+    color: white;
+    border-color: white;
+}
+.header-btn:hover{
+    background: #f1f1f186;
+    border-color: #f1f1f186;;
+}
