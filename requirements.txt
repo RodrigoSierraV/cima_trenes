@@ -20,7 +20,6 @@ decorator==4.4.2
 defusedxml==0.6.0
 distlib==0.3.0
 distro==1.4.0
-distro-info===0.23ubuntu1
 dnspython==1.16.0
 docutils==0.15.2
 duplicity==0.8.12.0
